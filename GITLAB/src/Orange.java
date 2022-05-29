@@ -2,6 +2,7 @@
 //RBCA-20-142
 package journalwork;
 
+
 public class Apple {
 	String color;
 	Orange(String color)
